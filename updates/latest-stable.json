@@ -1,0 +1,15 @@
+{
+  "version": "2.0.8",
+  "display_version": "2.0.8",
+  "release_date": "2026-06-18",
+  "title": "OnionProtocol 2.0.8",
+  "notes": [
+    "首次公开稳定版本",
+    "整理基础解包与伪装打包流程",
+    "加入压缩工具状态检测"
+  ],
+  "download_url": "https://github.com/你的用户名/OnionProtocol-Releases/releases/download/v2.0.8/OnionProtocol_Setup_2.0.8.exe",
+  "page_url": "https://github.com/你的用户名/OnionProtocol-Releases/releases/tag/v2.0.8",
+  "sha256": "这里填正式版安装包SHA256",
+  "mandatory": false
+}
