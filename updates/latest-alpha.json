@@ -4,8 +4,11 @@
   "release_date": "2026-06-20",
   "title": "OnionProtocol 2.0.9 Alpha",
   "notes": [
-    "修复路径检测问题",
-    "优化更新检查体验"
+    "新增版本检查",
+    "允许主题文件更改 滚动条颜色、样式",
+    "将手动选择压缩软件exe作为保底手段",
+    "部分按钮文案更改",
+    "修复部分表格四角超出圆角边框的问题"
   ],
   "download_url": "https://github.com/你的用户名/OnionProtocol-Releases/releases/download/v2.0.9-alpha/OnionProtocol_Setup_2.0.9_Alpha.exe",
   "page_url": "https://github.com/你的用户名/OnionProtocol-Releases/releases/tag/v2.0.9-alpha",
