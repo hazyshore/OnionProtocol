@@ -1,15 +1,13 @@
 {
-  "version": "2.0.8",
-  "display_version": "2.0.8",
-  "release_date": "2026-06-18",
-  "title": "OnionProtocol 2.0.8",
+  "version": "2.1.0",
+  "display_version": "2.1.0",
+  "release_date": "2026-06-22",
+  "title": "OnionProtocol 2.1.0",
   "notes": [
-    "首次公开稳定版本",
-    "整理基础解包与伪装打包流程",
-    "加入压缩工具状态检测"
+    "首次公开稳定版本"
   ],
-  "download_url": "https://github.com/你的用户名/OnionProtocol-Releases/releases/download/v2.0.8/OnionProtocol_Setup_2.0.8.exe",
-  "page_url": "https://github.com/你的用户名/OnionProtocol-Releases/releases/tag/v2.0.8",
-  "sha256": "这里填正式版安装包SHA256",
+  "download_url": "https://github.com/hazyshore/OnionProtocol/releases/download/v2.1.0/OnionProtocol_Setup.2.1.0-stable.exe",
+  "page_url": "https://github.com/hazyshore/OnionProtocol/releases/tag/v2.1.0",
+  "sha256": "d15eb4de3d38497c298fd8b6171e4f3241ff172f283d7b85ed2d1449e834787d",
   "mandatory": false
 }
