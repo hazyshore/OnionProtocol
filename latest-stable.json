@@ -1,0 +1,13 @@
+{
+  "version": "2.1.0",
+  "display_version": "2.1.0",
+  "release_date": "2026-06-22",
+  "title": "OnionProtocol 2.1.0",
+  "notes": [
+    "首次公开稳定版本"
+  ],
+  "download_url": "https://github.com/hazyshore/OnionProtocol/releases/download/v2.1.0/OnionProtocol_Setup.2.1.0-stable.exe",
+  "page_url": "https://github.com/hazyshore/OnionProtocol/releases/tag/v2.1.0",
+  "sha256": "d15eb4de3d38497c298fd8b6171e4f3241ff172f283d7b85ed2d1449e834787d",
+  "mandatory": false
+}
