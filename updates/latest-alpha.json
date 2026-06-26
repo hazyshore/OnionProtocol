@@ -1,14 +1,21 @@
 {
-  "version": "2.1.0-alpha",
-  "display_version": "2.1.0 Alpha",
-  "release_date": "2026-06-22",
-  "title": "OnionProtocol 2.1.0 Alpha",
+  "version": "2.1.1-alpha",
+  "display_version": "2.1.1 Alpha",
+  "release_date": "2026-06-26",
+  "title": "OnionProtocol 2.1.1 Alpha",
   "notes": [
-    "稳定版本发布"
+    "卡片浏览器重构",
+    "修复手动选择压缩工具路径不生效问题",
+    "压缩打包相关路径设置移动到软件设置",
+    "压缩增加压缩等级预设",
+    "压缩伪装增加 同时输出未加密文件",
+    "压缩伪装支持图片加密",
+    "Mod仓库 按作者整理 会根据哈希去重",
+    "修复由卡片浏览器发送至各队列的卡顿"
 
   ],
-  "download_url": "https://github.com/hazyshore/OnionProtocol/releases/download/v2.1.0/OnionProtocol_Setup.2.1.0-stable.exe",
-  "page_url": "https://github.com/hazyshore/OnionProtocol/releases/tag/v2.1.0",
+  "download_url": "https://github.com/hazyshore/OnionProtocol/releases/download/v2.1.1/OnionProtocol_Setup 2.1.1-alpha.exe",
+  "page_url": "https://github.com/hazyshore/OnionProtocol/releases/tag/v2.1.1",
   "sha256": "d15eb4de3d38497c298fd8b6171e4f3241ff172f283d7b85ed2d1449e834787d",
   "mandatory": false
 }
